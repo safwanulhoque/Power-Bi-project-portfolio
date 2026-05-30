@@ -1,7 +1,5 @@
 # 📊 Power BI Project Portfolio
 
-**Safwanul Hoque** · [LinkedIn](https://linkedin.com/in/safwanul-hoque) · safwanul.hoque.safwan@gmail.com
-
 A collection of four end-to-end business intelligence dashboards built with Power BI, covering sales analytics, customer insights, retail performance, and executive reporting. Each project involved raw data extraction, cleaning and transformation in Power Query, custom DAX measures, and interactive dashboard design.
 
 ---
@@ -121,29 +119,9 @@ Built an executive-facing business intelligence dashboard consolidating cross-fu
 
 ---
 
-## 📂 Repository Structure
-
-```
-Power-Bi-project-portfolio/
-│
-├── screenshots/
-│   ├── global-sales-dashboard.png
-│   ├── customer-insights-dashboard.png
-│   ├── retail-sales-dashboard.png
-│   └── business-performance-dashboard.png
-│
-├── Global_Sales_Analytics_Dashboard.pbix
-├── Customer_Insights_Report.pbix
-├── Retail_Sales_Performance_Dashboard.pbix
-├── Business_Performance_Insights_Dashboard.pbix
-└── README.md
-```
-
----
-
 ## 👤 Author
 
 **Safwanul Hoque**
 Bachelor of Computer Science (Data Analytics) · Asia Pacific University (APU) · Dual Degree with De Montfort University, UK
 
-🔗 [LinkedIn](https://linkedin.com/in/safwanul-hoque) · 📧 safwanul.hoque.safwan@gmail.com · 💻 [GitHub](https://github.com/safwanulhoque)
+🔗 [LinkedIn](https://linkedin.com/in/safwanul-hoque) · 📧 safwanul.hoque.safwan@gmail.com 
